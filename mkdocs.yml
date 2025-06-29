@@ -13,9 +13,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - neoteroi.cards
-  - neoteroi.timeline
-  - neoteroi.projects
   - admonition
   - pymdownx.details
   - pymdownx.arithmatex:
