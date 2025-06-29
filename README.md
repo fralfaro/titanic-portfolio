@@ -6,6 +6,8 @@ Este repositorio contiene un análisis completo del dataset del Titanic, utiliza
 El objetivo es predecir la supervivencia de los pasajeros utilizando técnicas de análisis exploratorio, limpieza de datos, visualización y modelos de machine learning. Este proyecto refleja habilidades clave en Python, visualización de datos, y comunicación de resultados.
 
 
+> 📢 **Nota**: La versión estática de este portafolio (publicada con GitHub Pages) está disponible en: [https://falfaro.xyz/titanic-portfolio/](https://falfaro.xyz/titanic-portfolio/)
+
 
 ## 📁 Estructura del Proyecto
 
