@@ -10,24 +10,18 @@ El objetivo es predecir la supervivencia de los pasajeros utilizando técnicas d
 ## 📁 Estructura del Proyecto
 
 ```
-
 titanic-data-science-portfolio/
-│
-├── data/
-│   ├── train.csv
-│   └── test.csv
-│
-├── notebooks/
-│   └── main.ipynb
-│
-├── report/
-│   └── report.md
-|
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-
+├── .github/              # Workflows para GitHub Actions 
+├── data/                 # Datos fuente como train.csv y test.csv
+├── docs/                 # Sitio web estático (para GitHub Pages)
+├── notebooks/            # Notebooks de análisis, exploración y modelado
+├── report/               # Informes PDF, Word u otros entregables
+├── .gitignore            # Archivos/carpetas a ignorar por Git
+├── LICENSE               # Licencia del proyecto
+├── mkdocs.yml            # Configuración con MkDocs 
+├── pyproject.toml        # Configuración para entornos reproducibles 
+├── README.md             # Descripción general del proyecto
+└── requirements.txt      # Lista de dependencias del proyecto
 ````
 
 
